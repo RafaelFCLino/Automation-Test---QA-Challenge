@@ -9,6 +9,7 @@ class Test3(unittest.TestCase):
         driver = webdriver.Firefox(executable_path=r"C:\Users\Rafael Lino\Desktop\Automation Test - QA Challenge\geckodriver.exe")
         driver.implicitly_wait(5)
 
+    #Pesquisar pelo livro '1984'
     def test1(self):
         driver.get("https://www.fnac.pt/") 
         driver.implicitly_wait(5)
@@ -19,6 +20,7 @@ class Test3(unittest.TestCase):
         bookPage = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/section[1]/h1").text
         assert bookPage == '1984'
 
+    #Validar que o comentário mais antigo publicado sobre o livro é de 22/08/2018
     def test2(self):
         driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/section[1]/div[2]/div[1]/a/span/span[2]").click()
         driver.find_element_by_xpath("/html/body/div[2]/div/div[5]/section[5]/div/header/div/a").click()
@@ -32,6 +34,7 @@ class Test3(unittest.TestCase):
         lastCommentDate = driver.find_element_by_xpath(f"/html/body/div[2]/section/div/div/div/section[{length}]/div/div/div[2]/p").text
         assert lastCommentDate == 'Publicada a 22 ago 2018'
 
+    #Validar que existem 0 classificações com '1 estrela'
     def test3(self):
         zeroStarScore = driver.find_element_by_xpath("/html/body/div[2]/section/div/div/section[1]/header/div[3]/div/div/ul/li[1]/div[1]/div/span").text
         assert zeroStarScore == '0'

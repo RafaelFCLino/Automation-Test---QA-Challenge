@@ -11,6 +11,7 @@ class Test5(unittest.TestCase):
         driver = webdriver.Firefox(executable_path=r"C:\Users\Rafael Lino\Desktop\Automation Test - QA Challenge\geckodriver.exe")
         driver.implicitly_wait(10)
 
+    #Pesquisar pelo livro 'Fascism and Democracy'
     def test1(self):
         driver.get("https://www.fnac.pt/") 
         driver.find_element_by_id("onetrust-accept-btn-handler").click() #Remove cookie consent so it doesn't obstruct buttons
@@ -19,11 +20,13 @@ class Test5(unittest.TestCase):
         searchResult = driver.find_element_by_xpath("/html/body/div[3]/div/div[4]/div[1]/div/span[1]").text
         assert searchResult == 'Fascism and Democracy'
 
+    #Adicionar o livro ao cesto
     def test2(self):
         driver.find_element_by_xpath("/html/body/div[3]/div/div[6]/div/div[1]/article[1]/form/div[3]/div/div/div/button").click()
         ItemAdded = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/div/div[1]/div")
         assert ItemAdded
 
+    #Validar que o número de artigos no cesto é '1'
     def test3(self):
         driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/div/div[2]/div[1]/a").click()
         try: 
@@ -33,6 +36,7 @@ class Test5(unittest.TestCase):
         numItemsInCart = driver.find_element_by_xpath("/html/body/div[1]/div/section/div/div/div[1]/div[1]/div/h2/span/span").text
         assert numItemsInCart == "1 PRODUTO"
  
+    #Validar que o total (com IVA) é igual ao valor do livro mais os custos de entrega estimados
     def test4(self):
         itemPrice = driver.find_element_by_xpath("/html/body/div[1]/div/section/div/div/div[2]/section/div[3]/div[1]/span[2]/span").text
         item = float(itemPrice.replace('€','.'))

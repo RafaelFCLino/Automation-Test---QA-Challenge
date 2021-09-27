@@ -9,6 +9,7 @@ class Test4(unittest.TestCase):
         driver = webdriver.Firefox(executable_path=r"C:\Users\Rafael Lino\Desktop\Automation Test - QA Challenge\geckodriver.exe")
         driver.implicitly_wait(5)
 
+    #Pesquisar pelo livro '1984'
     def test1(self):
         driver.get("https://www.fnac.pt/") 
         driver.find_element_by_id("onetrust-accept-btn-handler").click() #Remove cookie consent so it doesn't obstruct buttons
@@ -18,11 +19,13 @@ class Test4(unittest.TestCase):
         bookPage = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/section[1]/h1").text
         assert bookPage == '1984'
 
+    #Consultar biografia do autor
     def test2(self):
         driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/section[1]/div[1]/a").click()
         authorPage = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/div[1]/span").text
         assert authorPage == 'George Orwell'
 
+    #Validar que o livro 'Animal Farm' faz parte das obras de sua autoria
     def test3(self):
         animalFarmPresent = driver.find_element_by_xpath("/html/body/div[2]/div/div[2]/div[1]/section[1]/div[2]/div/div/div[7]/article/form/div[3]/span/a")
         assert animalFarmPresent

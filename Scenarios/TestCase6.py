@@ -12,6 +12,7 @@ class Test6(unittest.TestCase):
         driver = webdriver.Firefox(executable_path=r"C:\Users\Rafael Lino\Desktop\Automation Test - QA Challenge\geckodriver.exe")
         driver.implicitly_wait(5)
 
+    #Encontrar uma loja 'Lisboa'
     def test1(self):
         driver.get("https://www.fnac.pt/") 
         driver.find_element_by_id("onetrust-accept-btn-handler").click() #Remove cookie consent so it doesn't obstruct buttons
@@ -21,17 +22,20 @@ class Test6(unittest.TestCase):
         searchResult = driver.find_element_by_id('address').get_attribute("value")
         assert searchResult == 'Lisboa'
 
+    #Na lista de resultados, selecionar a loja de Almada
     def test2(self):
         driver.find_element_by_xpath("/html/body/div[2]/div[1]/div[1]/div[3]/ul[2]/li[5]/div/div[2]/span[1]/a").click()
         storeAlmada = driver.find_element_by_xpath("/html/body/div[1]/div/div[3]/div[2]/div/p").text
         assert storeAlmada == 'Fnac Almada'
 
+    #Verificar que o código postal da loja é 2810-354
     def test3(self):
         adress = driver.find_element_by_xpath("/html/body/div[1]/div/div[3]/div[4]/div[1]/div/div/section[1]/div[1]/p[2]").text
         assert '2810-354' in adress
 
+    #Verificar que a loja se encontra aberta todos os dias entre as 10:00 e as 23:00
     def test4(self):
-        weekday = datetime.datetime.today().weekday() 
+        weekday = datetime.datetime.today().weekday()
 
         if weekday == 0:
             monday = driver.find_element_by_xpath("/html/body/div[1]/div/div[3]/div[4]/div[1]/div/div/section[2]/div[1]/div/p[1]/strong[2]").text

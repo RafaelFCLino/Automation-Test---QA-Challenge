@@ -9,6 +9,7 @@ class Test2(unittest.TestCase):
         driver = webdriver.Firefox(executable_path=r"C:\Users\Rafael Lino\Desktop\Automation Test - QA Challenge\geckodriver.exe")
         driver.implicitly_wait(5)
 
+    #Pesquisar pelo livro '1984'
     def test1(self):
         driver.get("https://www.fnac.pt/") 
         driver.implicitly_wait(5)
@@ -19,18 +20,22 @@ class Test2(unittest.TestCase):
         bookPage = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/section[1]/h1").text
         assert bookPage == '1984'
 
+    #Validar que o autor é 'George Orwell'
     def test2(self):
         author = driver.find_element_by_xpath("/html/body/div[2]/div/div[1]/section[1]/div[1]/a").text
         assert author == 'George Orwell (Autor)'
 
+    #Validar que o ISBN é '9789726081890'
     def test3(self):
         isbn = driver.find_element_by_xpath("/html/body/div[2]/div/div[5]/section[7]/div/div/div[1]/div[1]/dl[4]/dd/p").text
         assert isbn == '9789726081890'
 
+    #Validar que o número de páginas é '314'
     def test4(self):
         npages = driver.find_element_by_xpath("/html/body/div[2]/div/div[5]/section[7]/div/div/div[1]/div[2]/dl[1]/dd/p").text
         assert npages == '314'
 
+    #Validar que as dimensões do livro são '13 x 21 cm'
     def test5(self):
         bookDimensions = driver.find_element_by_xpath("/html/body/div[2]/div/div[5]/section[7]/div/div/div[1]/div[1]/dl[5]/dd/p").text
         assert bookDimensions == '13 x 21 cm'
