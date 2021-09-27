@@ -2392,3 +2392,697 @@ JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b
 JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1632768037081	geckodriver	INFO	Listening on 127.0.0.1:64006
+1632768040114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileU5CQ3P"
+1632768040681	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileU5CQ3P\\search.json.mozlz4", (void 0)))
+1632768042968	Marionette	INFO	Listening on port 64015
+1632768043300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768063251	Marionette	INFO	Stopped listening on port 64015
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1632768064042	geckodriver	INFO	Listening on 127.0.0.1:61485
+1632768067115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileGBTX8k"
+1632768067439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileGBTX8k\\search.json.mozlz4", (void 0)))
+1632768069488	Marionette	INFO	Listening on port 61493
+1632768069785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768073397	Marionette	INFO	Stopped listening on port 61493
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1632768074252	geckodriver	INFO	Listening on 127.0.0.1:61614
+1632768077294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileUR32sM"
+1632768077560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileUR32sM\\search.json.mozlz4", (void 0)))
+1632768079257	Marionette	INFO	Listening on port 61622
+1632768079348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768084263	Marionette	INFO	Stopped listening on port 61622
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1632768085209	geckodriver	INFO	Listening on 127.0.0.1:61789
+1632768088280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileTpZhy6"
+1632768088547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileTpZhy6\\search.json.mozlz4", (void 0)))
+1632768090739	Marionette	INFO	Listening on port 61797
+1632768090930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.16.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", r is undefined
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768097433	Marionette	INFO	Stopped listening on port 61797
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632768098208	geckodriver	INFO	Listening on 127.0.0.1:50079
+1632768101270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileMHdFXq"
+1632768101549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileMHdFXq\\search.json.mozlz4", (void 0)))
+1632768103780	Marionette	INFO	Listening on port 50087
+1632768103934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632768118987	Marionette	INFO	Stopped listening on port 50087
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632768119495	geckodriver	INFO	Listening on 127.0.0.1:50131
+1632768122530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilekFMVVN"
+1632768122786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilekFMVVN\\search.json.mozlz4", (void 0)))
+1632768124828	Marionette	INFO	Listening on port 50141
+1632768125190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632768125200	Marionette	INFO	Stopped listening on port 50141
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632768405123	geckodriver	INFO	Listening on 127.0.0.1:55238
+1632768408181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofile2oRrLv"
+1632768408474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofile2oRrLv\\search.json.mozlz4", (void 0)))
+1632768410546	Marionette	INFO	Listening on port 55246
+1632768410854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632768410864	Marionette	INFO	Stopped listening on port 55246
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632768503548	geckodriver	INFO	Listening on 127.0.0.1:55338
+1632768506628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilec5ml6Z"
+1632768506900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilec5ml6Z\\search.json.mozlz4", (void 0)))
+1632768508984	Marionette	INFO	Listening on port 55346
+1632768509298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768521224	Marionette	INFO	Stopped listening on port 55346
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632768739407	geckodriver	INFO	Listening on 127.0.0.1:64946
+1632768742444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileV4YMQn"
+1632768742745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileV4YMQn\\search.json.mozlz4", (void 0)))
+1632768744917	Marionette	INFO	Listening on port 64954
+1632768745128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768754824	Marionette	INFO	Stopped listening on port 64954
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 2708, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 2708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632768823337	geckodriver	INFO	Listening on 127.0.0.1:65108
+1632768826375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilenOyeLl"
+1632768826667	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilenOyeLl\\search.json.mozlz4", (void 0)))
+1632768828929	Marionette	INFO	Listening on port 65116
+1632768829042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768838876	Marionette	INFO	Stopped listening on port 65116
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632768958194	geckodriver	INFO	Listening on 127.0.0.1:65277
+1632768961226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilef4Pmux"
+1632768961504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilef4Pmux\\search.json.mozlz4", (void 0)))
+1632768963587	Marionette	INFO	Listening on port 65285
+1632768963911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632768978312	Marionette	INFO	Stopped listening on port 65285
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1632769270120	geckodriver	INFO	Listening on 127.0.0.1:60285
+1632769273184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilecdUPSi"
+1632769273463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilecdUPSi\\search.json.mozlz4", (void 0)))
+1632769275577	Marionette	INFO	Listening on port 60293
+1632769275848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632769284369	Marionette	INFO	Stopped listening on port 60293
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632769313519	geckodriver	INFO	Listening on 127.0.0.1:60461
+1632769316589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilezPwraO"
+1632769316861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilezPwraO\\search.json.mozlz4", (void 0)))
+1632769318939	Marionette	INFO	Listening on port 60469
+1632769319259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5081 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632769331270	Marionette	INFO	Stopped listening on port 60469
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA70006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1632769660080	geckodriver	INFO	Listening on 127.0.0.1:55385
+1632769663107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofiledrHqqo"
+1632769663388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofiledrHqqo\\search.json.mozlz4", (void 0)))
+1632769665489	Marionette	INFO	Listening on port 55393
+1632769665787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632769669041	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632769672052	Marionette	INFO	Stopped listening on port 55393
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774513112	geckodriver	INFO	Listening on 127.0.0.1:51345
+1632774516185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileYao2x1"
+1632774516519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileYao2x1\\search.json.mozlz4", (void 0)))
+1632774518604	Marionette	INFO	Listening on port 51353
+1632774518859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1632774520473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774523437	Marionette	INFO	Stopped listening on port 51353
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390145,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632774567590	geckodriver	INFO	Listening on 127.0.0.1:51488
+1632774570628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilegC8ioV"
+1632774570902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilegC8ioV\\search.json.mozlz4", (void 0)))
+1632774573105	Marionette	INFO	Listening on port 51496
+1632774573306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774577897	Marionette	INFO	Stopped listening on port 51496
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774624162	geckodriver	INFO	Listening on 127.0.0.1:56390
+1632774627205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilewn8MRC"
+1632774627473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilewn8MRC\\search.json.mozlz4", (void 0)))
+1632774629602	Marionette	INFO	Listening on port 56398
+1632774629876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774650248	Marionette	INFO	Stopped listening on port 56398
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774650938	geckodriver	INFO	Listening on 127.0.0.1:65511
+1632774654006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileU8R3aL"
+1632774654268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileU8R3aL\\search.json.mozlz4", (void 0)))
+1632774656353	Marionette	INFO	Listening on port 65519
+1632774656673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774660859	Marionette	INFO	Stopped listening on port 65519
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774661738	geckodriver	INFO	Listening on 127.0.0.1:49235
+1632774664823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilefXp90U"
+1632774665102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilefXp90U\\search.json.mozlz4", (void 0)))
+1632774667159	Marionette	INFO	Listening on port 49243
+1632774667499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774672758	Marionette	INFO	Stopped listening on port 49243
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774673561	geckodriver	INFO	Listening on 127.0.0.1:49365
+1632774676624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilek75I1f"
+1632774676883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilek75I1f\\search.json.mozlz4", (void 0)))
+1632774678850	Marionette	INFO	Listening on port 49373
+1632774679281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.16.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", r is undefined
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774685862	Marionette	INFO	Stopped listening on port 49373
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774686558	geckodriver	INFO	Listening on 127.0.0.1:49489
+1632774689607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilejUSaGs"
+1632774689870	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilejUSaGs\\search.json.mozlz4", (void 0)))
+1632774691915	Marionette	INFO	Listening on port 49497
+1632774692281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632774707321	Marionette	INFO	Stopped listening on port 49497
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632774707816	geckodriver	INFO	Listening on 127.0.0.1:49537
+1632774710897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileiIq58u"
+1632774711157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileiIq58u\\search.json.mozlz4", (void 0)))
+1632774713185	Marionette	INFO	Listening on port 49545
+1632774713573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632774717933	Marionette	INFO	Stopped listening on port 49545
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632775219878	geckodriver	INFO	Listening on 127.0.0.1:52431
+1632775222957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilesuhXGY"
+1632775223247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilesuhXGY\\search.json.mozlz4", (void 0)))
+1632775225305	Marionette	INFO	Listening on port 52439
+1632775225628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632775236411	Marionette	INFO	Stopped listening on port 52439
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632775408758	geckodriver	INFO	Listening on 127.0.0.1:57106
+1632775411823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilepeVInx"
+1632775412091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilepeVInx\\search.json.mozlz4", (void 0)))
+1632775414250	Marionette	INFO	Listening on port 57114
+1632775414491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632775424483	Marionette	INFO	Stopped listening on port 57114
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632775799463	geckodriver	INFO	Listening on 127.0.0.1:56413
+1632775802534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileOXgsw8"
+1632775802805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileOXgsw8\\search.json.mozlz4", (void 0)))
+1632775804953	Marionette	INFO	Listening on port 56421
+1632775805196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632775814969	Marionette	INFO	Stopped listening on port 56421
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632775907311	geckodriver	INFO	Listening on 127.0.0.1:50707
+1632775910407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilezJKpIH"
+1632775910682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilezJKpIH\\search.json.mozlz4", (void 0)))
+1632775912749	Marionette	INFO	Listening on port 50715
+1632775913069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632775925829	Marionette	INFO	Stopped listening on port 50715
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632775940909	geckodriver	INFO	Listening on 127.0.0.1:61666
+1632775943990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileaio3ey"
+1632775944257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileaio3ey\\search.json.mozlz4", (void 0)))
+1632775946312	Marionette	INFO	Listening on port 61675
+1632775946654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFound1632776612651	Marionette	INFO	Stopped listening on port 51472
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+cShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632776520155	Marionette	INFO	Stopped listening on port 61675
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632776611629	geckodriver	INFO	Listening on 127.0.0.1:54760
+1632776614670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileWfRn9q"
+1632776614933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileWfRn9q\\search.json.mozlz4", (void 0)))
+1632776616826	Marionette	INFO	Listening on port 54771
+1632776617334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632776632189	Marionette	INFO	Stopped listening on port 54771
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632776708241	geckodriver	INFO	Listening on 127.0.0.1:50508
+1632776711274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileNvQOwt"
+1632776711615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileNvQOwt\\search.json.mozlz4", (void 0)))
+1632776713817	Marionette	INFO	Listening on port 50517
+1632776713940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632776729493	Marionette	INFO	Stopped listening on port 50517
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632776860909	geckodriver	INFO	Listening on 127.0.0.1:50720
+1632776863981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileS72KME"
+1632776864248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileS72KME\\search.json.mozlz4", (void 0)))
+1632776866328	Marionette	INFO	Listening on port 50728
+1632776866644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632777188777	Marionette	INFO	Stopped listening on port 50728
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofilehu3TY0"
+1632776890744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilehu3TY0\\search.json.mozlz4", (void 0)))
+1632776892516	Marionette	INFO	Listening on port 55039
+1632776892550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632776915924	Marionette	INFO	Stopped listening on port 55039
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632776953693	geckodriver	INFO	Listening on 127.0.0.1:59128
+1632776956753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileSWl5Ax"
+1632776956994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileSWl5Ax\\search.json.mozlz4", (void 0)))
+1632776958756	Marionette	INFO	Listening on port 59136
+1632776958803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632776973543	Marionette	INFO	Stopped listening on port 59136
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632777027253	geckodriver	INFO	Listening on 127.0.0.1:65407
+1632777030275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileNNsvYd"
+1632777030517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileNNsvYd\\search.json.mozlz4", (void 0)))
+1632777032310	Marionette	INFO	Listening on port 65415
+1632777032332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632777052296	Marionette	INFO	Stopped listening on port 65415
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632777053101	geckodriver	INFO	Listening on 127.0.0.1:53350
+1632777056152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofilelxCXPg"
+1632777056395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofilelxCXPg\\search.json.mozlz4", (void 0)))
+1632777058179	Marionette	INFO	Listening on port 53358
+1632777058204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632777062318	Marionette	INFO	Stopped listening on port 53358
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632777063271	geckodriver	INFO	Listening on 127.0.0.1:53515
+1632777066293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofile4DPwO2"
+1632777066533	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofile4DPwO2\\search.json.mozlz4", (void 0)))
+1632777068177	Marionette	INFO	Listening on port 53523
+1632777068345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632777073773	Marionette	INFO	Stopped listening on port 53523
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632777074591	geckodriver	INFO	Listening on 127.0.0.1:53663
+1632777077629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileMWrwxE"
+1632777077872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileMWrwxE\\search.json.mozlz4", (void 0)))
+1632777079503	Marionette	INFO	Listening on port 53671
+1632777079679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.16.0/otBannerSdk.js, line 7: TypeError: can't access property "DomainData", r is undefined
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632777087409	Marionette	INFO	Stopped listening on port 53671
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632777088066	geckodriver	INFO	Listening on 127.0.0.1:53795
+1632777091088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileqJz84Q"
+1632777091355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileqJz84Q\\search.json.mozlz4", (void 0)))
+1632777093198	Marionette	INFO	Listening on port 53803
+1632777093248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+JavaScript warning: https://secure.fnac.pt/Assets/dist/react/orderpipe/71548088b660bf0c635d.vendors~basket~onepage~onepage-map~onepage-postal~payment~postal~relay~shipping~store.bundle.js, line 3: unreachable code after return statement
+1632777108071	Marionette	INFO	Stopped listening on port 53803
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1632777108765	geckodriver	INFO	Listening on 127.0.0.1:53955
+1632777111798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\RAFAEL~1\\AppData\\Local\\Temp\\rust_mozprofileLmVvI1"
+1632777112040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafael Lino\\AppData\\Local\\Temp\\rust_mozprofileLmVvI1\\search.json.mozlz4", (void 0)))
+1632777113683	Marionette	INFO	Listening on port 53963
+1632777113854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 4: unreachable code after return statement
+JavaScript warning: https://www.fnac.pt/static-proxy/kameleoon/script.js, line 7: unreachable code after return statement
+1632777118338	Marionette	INFO	Stopped listening on port 53963
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
